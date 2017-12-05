@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Kolibris</h1>
+  <img src="images/hummingbird.jpg" alt="Ein blauer Kolibri" align: center>
+  <p/>Die Kolibris (Trochilidae) sind Vögel und stellen nach Ansicht
+  fast aller Autoren die einzige Familie der Ordnung der Kolibriartigen
+  (Trochiliformes) dar. Sie sind allerdings sowohl mit den Seglern (Apodidae)
+  als auch mit den Baumseglern (Hemiprocnidae) so nahe verwandt, dass sie
+  manchmal mit diesen in der Ordnung der Seglervögel (Apodiformes)
+  zusammengefasst werden.</p>
+  <p>Die Familie der Kolibris umfasst mehr als 100 Gattungen mit mehr
+    als 330–340 Arten. Der Name Kolibri wurde im 18. Jahrhundert aus
+    dem Französischen entlehnt (frz. colibri) und stammt wohl aus einer
+    karibischen Sprache.</p>
+  <p>Kolibris findet man in</p>
+
+      <ul>
+        <li>Deutschland</li>
+        <li>Österreich</li>
+        <li>Holland</li>
+      <ul>
+
+  <a href= "http://www.mcdonalds.at/""> Ernährung des Kolibri</a>
+
+<button>Change User</button>
+
+<script src="scripts/main.js"></script>
+
+  </body>
+</html>
